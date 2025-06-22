@@ -1,22 +1,20 @@
 # Capstone-Bella-beats
 Case Study 
-# Bellabeats Case Study
+# Bella-beats Case Study
 
-## Project Overview
-# Bellabeats Case Study
 
 ## Project Overview
 The purpose of this Bellabeat project is to analyze smart device usage data to uncover trends in consumer health habits—specifically related to physical activity and sleep. By examining Fitbit data, the goal is to generate actionable insights that Bellabeat can apply to its marketing strategy, helping promote its wellness products more effectively. Ultimately, the analysis aims to support Bellabeat’s growth in the competitive smart wellness market by identifying behavior patterns that resonate with target users. 
 
 
 ## Table of Contents
-Project Overview
-Dataset(#dataset)
-Tools Used(#tools-used)
-Analysis Steps(#analysis-steps)
-Findings(#findings)
-Future Questions(#future-questions)
-About Me(#about-me)
+1. Project Overview
+2. Dataset(#dataset)
+3. Tools Used(#tools-used)
+4. Analysis Steps(#analysis-steps)
+5. Findings(#findings)
+6. Future Questions(#future-questions)
+7. About Me(#about-me)
 
 ## Dataset
 Source: Public Fitbit dataset from Kaggle
@@ -32,7 +30,7 @@ Limitations: No demographic data (age, gender), small sample size, and collected
 
 ## Tools Used
 List all tools and software you used.  
-R(tidyverse, ggplot2, )
+R(tidyverse, ggplot2, Github, Colab )
 Fitbit Dataset(30 users over 30 days)
 
 ## Analysis Steps
